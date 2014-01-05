@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://ztl2004.github.com/atom.xml" rel="self"/>
   <link href="http://ztl2004.github.com/"/>
-  <updated>2012-12-26T14:19:23+08:00</updated>
+  <updated>2014-01-05T10:28:21+00:00</updated>
   <id>http://ztl2004.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,46 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[oral translation III 1]]></title>
-    <link href="http://ztl2004.github.com/blog/2012/12/24/oral-translation-iii-1/"/>
-    <updated>2012-12-24T11:29:00+08:00</updated>
-    <id>http://ztl2004.github.com/blog/2012/12/24/oral-translation-iii-1</id>
+    <title type="html"><![CDATA[Machine Learning Weekly online now]]></title>
+    <link href="http://ztl2004.github.com/blog/2014/01/05/machine-learning-weekly-online-now/"/>
+    <updated>2014-01-05T10:28:00+00:00</updated>
+    <id>http://ztl2004.github.com/blog/2014/01/05/machine-learning-weekly-online-now</id>
     <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[codeforce contest 1]]></title>
-    <link href="http://ztl2004.github.com/blog/2012/12/06/codeforce-contest-1/"/>
-    <updated>2012-12-06T08:43:00+08:00</updated>
-    <id>http://ztl2004.github.com/blog/2012/12/06/codeforce-contest-1</id>
-    <content type="html"><![CDATA[<p>发现了codeforce这个网站还是相当不错的，有onlinejudge，还有别人的代码可以参考。</p>
-
-<p>今天做了contest1的三个题目，说一下心得体会：</p>
-
-<h2>1. n<em>m方块最少用多少a</em>a块铺满；</h2>
-
-<p>只需要n/a和m/a向上取整即可</p>
-
-<h3>学习到</h3>
-
-<ol>
-<li>python负数的向下取整，例如-6/4, 居然是-2，试了一下c++是-1；</li>
-<li>map(func,list)这个函数可以将一个func用在一个list上面，显得语句很简单；</li>
-</ol>
-
-
-<h2>2. spreadsheet经常有不同的格式来表达行列，求不同计数方法之间的转换</h2>
-
-<h3>学习到</h3>
-
-<ol>
-<li>对于输入，有时候regex表达式比起字符串操作能够更加准确和简洁；</li>
-<li>对于A&#8230;Z,AA&#8230;ZZ这样的枚举，实际可以看作是另外一种格式的计数法而已，这样比全排列容易理解，也容易写代码，因为各种进制转换应该是比较容易和常用的代码；</li>
-</ol>
-
-
-<h2>3. 给定几个顶点，求最小正多边形</h2>
 ]]></content>
   </entry>
   

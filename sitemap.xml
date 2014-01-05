@@ -1,19 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://ztl2004.github.com/blog/2012/12/06/codeforce-contest-1/</loc>
-        <lastmod>2012-12-26T13:30:42+08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://ztl2004.github.com/blog/2012/12/24/oral-translation-iii-1/</loc>
-        <lastmod>2012-12-26T13:30:43+08:00</lastmod>
+        <loc>http://ztl2004.github.com/blog/2014/01/05/machine-learning-weekly-online-now/</loc>
+        <lastmod>2014-01-05T10:28:05+00:00</lastmod>
     </url>
     <url>
         <loc>http://ztl2004.github.com/blog/archives/</loc>
-        <lastmod>2012-12-26T13:31:45+08:00</lastmod>
+        <lastmod>2014-01-05T10:28:05+00:00</lastmod>
     </url>
     <url>
         <loc>http://ztl2004.github.com/</loc>
-        <lastmod>2012-12-26T13:32:02+08:00</lastmod>
+        <lastmod>2014-01-05T10:28:05+00:00</lastmod>
     </url>
 </urlset>
